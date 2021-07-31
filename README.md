@@ -26,9 +26,6 @@
 <a href="https://github.com/OmgCopito95/App-Precio-Monedas">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=omgcopito95&repo=App-Precio-Monedas&theme=dracula" />
 </a>&nbsp;
-<a href="https://github.com/OmgCopito95/nacimientos-de-famosos">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=omgcopito95&repo=nacimientos-de-famosos&theme=dracula" />
-</a>
 
 ## 👩‍🎓 Información útil para la Universidad
 
