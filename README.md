@@ -21,7 +21,7 @@
 
 <br><br><br>
 
-## 💻 Últimos Trabajos - Disponibles en <a href="https://play.google.com/store/apps/developer?id=Copito+System"> Play Store </a>
+## 💻 Últimos Trabajos - Disponible en <a href="https://play.google.com/store/apps/developer?id=Copito+System"> Play Store </a>
 
 <a href="https://github.com/OmgCopito95/App-Precio-Monedas">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=omgcopito95&repo=App-Precio-Monedas&theme=dracula" />
