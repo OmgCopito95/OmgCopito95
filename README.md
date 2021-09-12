@@ -24,11 +24,11 @@
 ## 💻 Trabajando en
 
 <a href="https://github.com/OmgCopito95/nacimientos-de-famosos">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=omgcopito95&repo=nacimientos-de-famosos&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=omgcopito95&repo=nacimientos-de-famosos&theme=dracula" />
 </a>&nbsp
 
 <a href="https://github.com/OmgCopito95/recursados-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=omgcopito95&repo=recursados-app&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=omgcopito95&repo=recursados-app&theme=dracula" />
 </a>&nbsp
 
 ## 👩‍🎓 Información útil para la Universidad
