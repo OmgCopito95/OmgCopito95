@@ -21,6 +21,16 @@
 
 <br><br><br>
 
+## 💻 Trabajando en
+
+<a href="https://github.com/OmgCopito95/nacimientos-de-famosos">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=omgcopito95&repo=nacimientos-de-famosos&theme=radical" />
+</a>&nbsp
+
+<a href="https://github.com/OmgCopito95/recursados-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=omgcopito95&repo=recursados-app&theme=radical" />
+</a>&nbsp
+
 ## 👩‍🎓 Información útil para la Universidad
 
 <a href="https://github.com/OmgCopito95/CADP">
@@ -32,12 +42,6 @@
 <a href="https://github.com/OmgCopito95/Taller-de-Programacion">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=omgcopito95&repo=Taller-de-Programacion&theme=radical" />
 </a>
-
-## 💻 Trabajando en
-
-<a href="https://github.com/OmgCopito95/nacimientos-de-famosos">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=omgcopito95&repo=nacimientos-de-famosos&theme=radical" />
-</a>&nbsp
 
 ## :checkered_flag: Últimos Trabajos - Disponible en <a href="https://play.google.com/store/apps/developer?id=Copito+System"> Play Store </a>
 
