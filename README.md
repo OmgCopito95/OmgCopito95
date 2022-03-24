@@ -1,13 +1,13 @@
 
 <h1 align="center">Hola! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Soy Copito 🧁 </h1>
 <h3 align="center">Desarrolladora Backend | Estudiante de Ingeniería | Profesora de Programación</h3>
-<p align="center">
-<p align="center">
+<!--<p align="center">
+<!--<p align="center">
 	<a href="https://github.com/omgcopito95"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<!--<a href=""><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a> -->
 	<!-- <a href="https://www.facebook.com/asisodiya2421/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a> -->
-	<a href="https://www.instagram.com/wtvcruella"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a> 
-	<a href="https://twitter.com/wtvcruella"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
+<!--	<a href="https://www.instagram.com/wtvcruella"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a> 
+	<a href="https://twitter.com/wtvcruella"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a> -->
 </p>
 </p>
 </p>
