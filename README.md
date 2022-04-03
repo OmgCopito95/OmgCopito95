@@ -46,9 +46,6 @@
 <a href="https://github.com/OmgCopito95/Algoritmos-Basicos">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=omgcopito95&repo=Algoritmos-Basicos&theme=radical" />
 </a>
-<a href="https://github.com/OmgCopito95/Taller-de-Programacion">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=omgcopito95&repo=Taller-de-Programacion&theme=radical" />
-</a>
 
 
 
