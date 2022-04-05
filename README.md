@@ -6,6 +6,7 @@
 	<a href="https://www.instagram.com/wtvcruella"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	<a href="https://twitter.com/wtvcruella"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
 	<a href="https://cafecito.app/omgcopito95"><img src="https://img.icons8.com/bubbles/50/000000/cafe.png" alt="Twitter"/></a>
+	<a href="https://omgcopito95.gumroad.com/l/juli-templates-mivida"><img src="https://img.icons8.com/bubbles/50/000000/buy.png" alt="Twitter"/></a>
 </p>
 
 
