@@ -38,7 +38,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=omgcopito95&repo=nacimientos-de-famosos&theme=dracula" />
 </a>&nbsp
 
--->
+
 ## 👩‍🎓 Información útil para la Universidad
 
 <a href="https://github.com/OmgCopito95/CADP">
@@ -49,5 +49,5 @@
 </a>
 
 
-
+-->
 
