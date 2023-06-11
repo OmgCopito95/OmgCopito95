@@ -8,7 +8,7 @@
 	<a href="https://cafecito.app/omgcopito95"><img src="https://img.icons8.com/bubbles/50/000000/cafe.png" alt="Twitter"/></a>
 	<a href="https://omgcopito95.gumroad.com/l/juli-templates-mivida"><img src="https://img.icons8.com/bubbles/50/000000/buy.png" alt="Twitter"/></a>
         <a href="https://youtube.com/@julietalanciotti"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="youtube"/></a>
-        <a href="HTTP://blog.julietalanciotti.com.ar"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="web"/></a>
+        <!--<a href="HTTP://blog.julietalanciotti.com.ar"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="web"/></a>-->
       
 </p>
 
